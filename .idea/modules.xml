@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/training_asp-master.iml" filepath="$PROJECT_DIR$/.idea/training_asp-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/web_asp.iml" filepath="$PROJECT_DIR$/.idea/web_asp.iml" />
     </modules>
   </component>
 </project>
